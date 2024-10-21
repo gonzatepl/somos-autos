@@ -1,2 +1,2 @@
 # somos-autos
-Sitio web de una compañía ficticia que brinda servicios de autos, construido con HTML, CSS y JavaScript.
+Para ejecutarlo, simplemente clone o descargue el repositorio del proyecto y ejecute el arhivo _index.html_ en el navegador de su preferencia.
